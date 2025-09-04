@@ -26,16 +26,6 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
-### Herramientas
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Otros
-- 🎨 Diseño visual: dashboards, presentaciones, PDFs, páginas web  
-- 📊 Análisis de datos  
-- 🖥️ Diseño asistido por computadora  
-
 ---
 
 ### 🌐 Conectemos
@@ -44,9 +34,9 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://mail.google.com/mail/u/0/#inbox" alt="Email"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://florencialuna.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="" target="_blank">
