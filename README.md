@@ -52,9 +52,8 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 </div>
 
 <div>
-  <p>Email:  </p>
 <a href="mailto:florencia.tucorreo@gmail.com" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>-->
+   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
