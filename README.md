@@ -27,7 +27,7 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
+<!-- 
 ### 🌐 Conectemos
 <p align="center">
   <a href="www.linkedin.com/in/florencia-ayelen-luna" target="_blank">
@@ -42,6 +42,32 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</p>
+</p>-->
+### 🌐 Conectemos
+
+<div align="center">
+  <a href="https://linkedin.com/in/florencia-ayelen-luna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:florencia.tucorreo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://florencialuna.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://wa.me/5491123456789" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:B39DDB&height=100&section=footer"/>
