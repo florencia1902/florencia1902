@@ -5,6 +5,13 @@
 
 ## 🧑‍💻 Sobre mí
 
+¡Hola! Soy Florencia Luna, estudiante de Técnico en Programación con mucho entusiasmo por el mundo de la tecnología. Empecé formándome en desarrollo web y actualmente estoy ampliando mis conocimientos en SQL, SAP, Python e Inteligencia Artificial.
+
+Me destaco por mi empatía, comunicación efectiva, resolución de problemas, así como por mi adaptabilidad, compromiso y trabajo en equipo.
+
+Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandir mis habilidades tecnológicas. 🚀
+
+
 
 ---
 
