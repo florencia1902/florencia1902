@@ -47,13 +47,14 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 
 <div align="center">
   <a href="https://linkedin.com/in/florencia-ayelen-luna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </div>
 
 <div align="center">
-  <a href="mailto:florencia.tucorreo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <p>Email:  </p>
+<a href="mailto:florencia.tucorreo@gmail.com" target="_blank">
+    <!-- <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>-->
   </a>
 </div>
 
