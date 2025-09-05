@@ -62,8 +62,8 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 
 # 💫 ¡Hola mundo, soy Florencia Luna! 🌙
 
-<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="300" />
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 
 
 Estudiante de Técnico en Programación con mucho entusiasmo por el mundo de la tecnología. Empecé formándome en desarrollo web y actualmente estoy ampliando mis conocimientos en SQL, SAP, Python e Inteligencia Artificial.💡💻
