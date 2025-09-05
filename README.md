@@ -62,48 +62,36 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 
 # 💫 ¡Hola mundo, soy Florencia Luna! 🌙
 
-¡Bienvenida/o a mi universo de código! 🚀  
-Desarrolladora con ganas infinitas de aprender, crear y transformar ideas en soluciones reales 💡💻
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 
----
 
-## 👩‍💻 Tecnologías que uso y estoy aprendiendo
+Estudiante de Técnico en Programación con mucho entusiasmo por el mundo de la tecnología. Empecé formándome en desarrollo web y actualmente estoy ampliando mis conocimientos en SQL, SAP, Python e Inteligencia Artificial.💡💻
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,sap" alt="Tech stack" />
+Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandir mis habilidades tecnológicas. 🚀
 
----
+##  🧑‍💻 Sobre mí
 
-## 🌱 Actualmente aprendiendo
-
-- 📘 SAP (y sí, me está costando un poquito 😅)
-- 🔍 Profundizando en bases de datos y desarrollo backend
-
----
-
-## 🚀 Sobre mí
-
-- ✨ Creativa por naturaleza
+- ✨ Me destaco por mi empatía, adaptabilidad, trabajo en equipo y compromiso
 - 🧠 Curiosa y autodidacta
 - ☕ Café + Código = felicidad
 - 📚 Siempre buscando el próximo desafío
 
 ---
 
-## 🌐 Conectemos
+## 👩‍💻 Tecnologías que uso y estoy aprendiendo
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql,sap" alt="Tech stack" />
+
+
+---
+
+## 🌐 Conectame 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-ayelen-luna)  
 [![Portfolio](https://img.shields.io/badge/Portafolio-000?logo=firefox&logoColor=white)](https://florencialuna.netlify.app/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=white)](mailto:florencia.tucorreo@gmail.com)
 ---
 
-## 📊 Stats de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlorenciaLuna&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaLuna&layout=compact&theme=radical" alt="Top Langs" height="165" />
-</div>
-
----
 
 ## 🌈 Fun Fact
 
