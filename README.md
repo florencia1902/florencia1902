@@ -1,3 +1,69 @@
+<!-- 🎬 GIF de bienvenida -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</div>
+
+<h1 align="center">💫 ¡Hola mundo, soy Florencia Luna! 🌙</h1>
+
+<div align="center">
+  <em>Estudiante de Técnico en Programación con mucho entusiasmo por el mundo de la tecnología.</em><br>
+  <em>Me formé en desarrollo web y ahora estoy profundizando en SQL, SAP, Python e Inteligencia Artificial 💡💻</em><br>
+  <strong>Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandir mis habilidades tecnológicas 🚀</strong>
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+<div style="padding: 10px; border-radius: 10px; background-color: #f9f9f9; border: 1px solid #ddd;">
+  
+- ✨ Me destaco por mi empatía, adaptabilidad, trabajo en equipo y compromiso  
+- 🧠 Curiosa y autodidacta  
+- ☕ Café + Código = felicidad  
+- 📚 Siempre buscando el próximo desafío  
+
+</div>
+
+---
+
+## 👩‍💻 Tecnologías que uso y estoy aprendiendo
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,sap" alt="Tech stack" />
+</div>
+
+---
+
+## 🌐 Conectame
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/florencia-ayelen-luna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://florencialuna.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000?logo=firefox&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="mailto:florencia.tucorreo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+
+</div>
+
+---
+
+## 🌈 Fun Fact
+
+<div align="center" style="font-size: 18px;">
+  <em>“¡Estoy hecha de bugs, café y mucho entusiasmo!” ☕🐛🎉</em>
+</div>
+
+
+
+
+
 <!-- Encabezado con ola
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:81D4FA&height=200&section=header&text=¡Hola,%20soy%20Flor!%20🌸&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 <p align="center">
@@ -58,7 +124,7 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:B39DDB&height=100&section=footer"/>-->
 
 
-
+<!--   
 
 # 💫 ¡Hola mundo, soy Florencia Luna! 🌙
 
@@ -96,5 +162,7 @@ Hoy estoy enfocada en seguir creciendo en entornos donde pueda aplicar y expandi
 
 ## 🌈 Fun Fact
 
-> “¡Estoy hecha de bugs, café y mucho entusiasmo!” ☕🐛🎉
+> “¡Estoy hecha de bugs, café y mucho entusiasmo!” ☕🐛🎉 -->
+
+
 
